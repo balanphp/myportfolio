@@ -7,4 +7,5 @@ const nextConfig: NextConfig = {
   assetPrefix: '/myportfolio/',
 };
 
+
 export default nextConfig;
