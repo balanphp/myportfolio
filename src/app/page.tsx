@@ -1,11 +1,11 @@
 'use client'
-import React, { useState } from "react";
+import React from "react";
 
 export default function Home() {
-  const [data ] = useState('Balamurugan')
   return (
-    <>
-   <div>Yes this is working good.... {data}</div>
-   </>
+    <main>
+      <h1>🚀 Welcome Bala</h1>
+      <p>This is my custom landing page at /myportfolio</p>
+    </main>
   );
 }
