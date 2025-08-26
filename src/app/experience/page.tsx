@@ -4,7 +4,7 @@ export default function ExperiencePage() {
   const experiences = [
     {
       company: "Harita TechServe (ESAB)",
-      place: "Alwarpet, Chennai",
+      place: "Chennai",
       url: "http://www.harita.in/",
       designation: "Senior Technical Lead",
       period: "Mar 2023 – Present",
@@ -12,7 +12,7 @@ export default function ExperiencePage() {
     },
     {
       company: "Datanetiix Solution",
-      place: "T Nagar, Chennai",
+      place: "Chennai",
       url: "https://datanetiix.com/",
       designation: "Lead Technical Consultant",
       period: "Nov 2018 – Mar 2023",

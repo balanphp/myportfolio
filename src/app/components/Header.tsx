@@ -19,6 +19,7 @@ export default function Header() {
 
       <div className={`${open ? "flex" : "hidden"} flex-col sm:flex sm:flex-row sm:justify-between sm:items-center`}>
         <Link href="/profile" className="p-2">Profile Summary</Link>
+        <Link href="/testing" className="p-2">Testing</Link>
         <Link href="/skill" className="p-2">Skill Summary</Link>
         <Link href="/education" className="p-2">Education</Link>
         <Link href="/experience" className="p-2">Experience</Link>
