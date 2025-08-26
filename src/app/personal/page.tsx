@@ -12,47 +12,47 @@ export default function PersonalDetails() {
       <div className="flex flex-col gap-3 text-gray-700">
         <div className={fieldClass}>
           <span className={labelClass}>Date of Birth</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>1st March 1984</span>
         </div>
         <div className={fieldClass}>
           <span className={labelClass}>Age</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>41</span>
         </div>
         <div className={fieldClass}>
           <span className={labelClass}>Marital Status</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>Married</span>
         </div>
         <div className={fieldClass}>
           <span className={labelClass}>Gender</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>Male</span>
         </div>
         <div className={fieldClass}>
-          <span className={labelClass}>Father's Name</span>
-          <span className="colonClass">:</span>
+          <span className={labelClass}>Fathers Name</span>
+          <span className={colonClass}>:</span>
           <span>R. Ayyasamy</span>
         </div>
         <div className={fieldClass}>
           <span className={labelClass}>Nationality</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>Indian</span>
         </div>
         <div className={fieldClass}>
           <span className={labelClass}>Stable Address</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>#34 Manakkollai, Vridhachalam Taluk.</span>
         </div>
         <div className={fieldClass}>
           <span className={labelClass}>Temporary Address</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>Kallikuppam, Ambattur, Chennai - 53.</span>
         </div>
         <div className={fieldClass}>
           <span className={labelClass}>Languages Known</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>English, Tamil</span>
         </div>
         <div className={fieldClass}>
@@ -62,7 +62,7 @@ export default function PersonalDetails() {
         </div>
         <div className={fieldClass}>
           <span className={labelClass}>Passport Number</span>
-          <span className="colonClass">:</span>
+          <span className={colonClass}>:</span>
           <span>K5838034</span>
         </div>
       </div>
@@ -73,7 +73,7 @@ export default function PersonalDetails() {
         <p className="text-gray-700 leading-relaxed text-justify text-sm">
           I, hereby declare that the information furnished above is true to the best of my knowledge. 
           If given an opportunity to work in your esteemed organization, I can perform to the best 
-          of my capabilities in a way that satisfies the organization's need and my career thirst.
+          of my capabilities in a way that satisfies the organizations need and my career thirst.
         </p>
         <div className="mt-4">
           <p><span className={labelClass}>Date:</span> __________</p>
