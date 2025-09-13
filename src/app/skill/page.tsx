@@ -4,15 +4,15 @@ export default function SkillPage() {
   const skills = [
     {
       category: "Front End",
-      list: "React.js, Vue.js, JavaScript, jQuery, HTML, CSS, Bootstrap, Vuetify",
+      list: "Next.Js, React.js, Vue.js, JavaScript, jQuery, HTML, CSS, Bootstrap, Vuetify",
     },
     {
       category: "Back End",
-      list: "PHP 7.x, Laravel, CodeIgniter, Node.js, Electron.js",
+      list: "Node.js, PHP 7.x, Laravel, CodeIgniter, Electron.js",
     },
     {
       category: "Databases",
-      list: "MySQL, SQL, MongoDB",
+      list: "MongoDB, MySQL, SQLite, PostgreSQL",
     },
     {
       category: "IDE",

@@ -54,6 +54,34 @@ export default function ProjectsSummary() {
       tools: "WordPress, PHP 7.x, MySQL 5.x, HTML5, CSS3, jQuery",
       description:
         "This retail web application is built using WordPress. It sells specialized beds for cars and trucks, which people typically buy for use during picnics and tours.",
+    },
+    {
+      name: "SpaWorks",
+      link: "https://spaworks.net/",
+      tools: "Shopify, Core.js, HTML, CSS, jQuery, JavaScript",
+      description:
+        "E-Commerce application were selling only the spa related goods path sap and it’s cleaning  products  start screw and up to path spa.",
+    },
+    {
+      name: "Sai Scholars",
+      link: "https://saischolars.org/",
+      tools: "Joomla, PHP 7.x, MySQL, HTML, CSS, jQuery, JavaScript.",
+      description:
+        "History of board info and scholarship programs, donors, news, events listing into this application.",
+    },
+    {
+      name: "IMASC",
+      link: "https://imasc.org/",
+      tools: "WordPress, PHP 7.x, MySQL, jQuery, JavaScript, HTML, CSS",
+      description:
+        "Organized to improve access to healthcare and disease prevention through initiatives like health fairs, health clinics, volunteering, and disaster relief support.",
+    },
+    {
+      name: "Charity Matterz",
+      link: "https://charitymatterz.org/",
+      tools: "PHP 7.x, Java Script, jQuery, Font awesome, HTML, Bootstrap.",
+      description:
+        "This charity provide the various training program to the students like one-to-one, Internal Business Process, Technology, Recruitment, planning & Execution.",
     }
   ];
 
